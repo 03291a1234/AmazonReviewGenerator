@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "AmazonReviewGenerator.Controllers.ReviewController",
+    "Method": "GenerateReview",
+    "RelativePath": "api/Review/generate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

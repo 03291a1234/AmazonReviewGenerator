@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A03je46YbA0ykmHnZyiLHE3rCXb+Z2JMBpuCRU/oV3Q=",
+  "Source": "AmazonReviewGenerator",
+  "BasePath": "_content/AmazonReviewGenerator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
